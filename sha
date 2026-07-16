@@ -1,0 +1,10 @@
+//arthematic practice 
+a,b,c = 5,10,20
+print(f"a={a},b={b},c={c}")
+print("a+b=",a+b)
+print("a-b=",a-b)
+print("a*b=",a*b)
+print("b/a=",b/a)
+print("b//a=",b//a)
+print("b%a=",b%a)
+#python #python100
