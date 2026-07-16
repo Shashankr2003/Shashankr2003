@@ -1,0 +1,22 @@
+# Swapping two variables using temporary variable
+
+a = "10 "
+b = "20"
+
+print (f"a={a} b={b}")
+c=b
+b=a
+a=c
+print(f"a={a} b={b}")
+
+
+# Swapping two variables without using temporary variable
+a=10
+b=20
+print(f"a={a} b={b}")
+a=a+b
+b=a-b
+a=a-b
+print(f"a={a} b={b}")
+
+#python #python100
